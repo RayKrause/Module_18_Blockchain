@@ -79,6 +79,9 @@ Code additional input areas for the user interface of your Streamlit application
 
 Test your complete `PyChain` ledger and user interface by running your Streamlit application and storing some mined blocks in your `PyChain` ledger. Then test the blockchain validation process by using your `PyChain` ledger. To do so, complete the following steps:
 
+This Get Started guide explains how Streamlit works, how to install Streamlit on your preferred operating system, and how to create your first Streamlit app!
+https://docs.streamlit.io/library/get-started
+
 1. In the terminal, navigate to the project folder where you've coded this assignment.
 
 2. In the terminal, run the Streamlit application by using `streamlit run pychain.py`.
