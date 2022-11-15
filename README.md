@@ -74,6 +74,7 @@ Code additional input areas for the user interface of your Streamlit application
 4. Add an input area where you can get a value for `amount` from the user.
 
 5. As part of the “Add Block” button functionality, update `new_block` so that `Block` consists of an attribute named `record`, which is set equal to a `Record` that contains the `sender`, `receiver`, and `amount` values. The updated `Block` should also include the attributes for `creator_id` and `prev_hash`.
+![Decorative image.](Images/image9.png)
 
 ### Step 4: Test the PyChain Ledger by Storing Records
 
