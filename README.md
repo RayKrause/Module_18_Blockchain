@@ -96,6 +96,7 @@ https://docs.streamlit.io/library/get-started
 ![Decorative image.](Images/image5.png)
 ![Decorative image.](Images/image6.png)
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
+![Decorative image.](Images/image8.png)
 ![Decorative image.](Images/image7.png)
 ---
 ## Submission
