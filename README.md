@@ -82,13 +82,15 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 1. In the terminal, navigate to the project folder where you've coded this assignment.
 
 2. In the terminal, run the Streamlit application by using `streamlit run pychain.py`.
-![alt=""](Images/image1.png)
+![Decorative image.](Images/image1.png)
 3. Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
-
+![Decorative image.](Images/image3.png)
+![Decorative image.](Images/image4.png)
 4. Verify the block contents and hashes in the Streamlit dropdown menu. Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. Include the screenshot in the `README.md` file for your GitHub repository.
-
+![Decorative image.](Images/image5.png)
+![Decorative image.](Images/image6.png)
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
-
+![Decorative image.](Images/image7.png)
 ---
 ## Submission
 
